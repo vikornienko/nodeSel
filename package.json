@@ -1,0 +1,17 @@
+{
+  "name": "nodesel",
+  "version": "1.0.0",
+  "description": "Selenium with node js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "selenium"
+  ],
+  "author": "vikornienko",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.38.0"
+  }
+}
